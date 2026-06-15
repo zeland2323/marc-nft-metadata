@@ -1,0 +1,13 @@
+{
+  "name": "Marc NFT #1",
+  "description": "O primeiro NFT do ecossistema MARC na Base. Token oficial do projeto Marco.",
+  "image": "https://zeland2323.github.io/marc-nft-metadata/images/1.png",
+  "external_url": "https://basescan.org/token/0x3864dC336c0800b12BD46D2137cd6CF8C5D6a290",
+  "attributes": [
+    { "trait_type": "Edicao", "value": "Genesis" },
+    { "trait_type": "Ecossistema", "value": "MARC" },
+    { "trait_type": "Rede", "value": "Base" },
+    { "trait_type": "Numero", "value": "1" },
+    { "trait_type": "Raridade", "value": "Lendario" }
+  ]
+}
